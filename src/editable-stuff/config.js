@@ -9,28 +9,18 @@ const mainBody = {
   firstName: "Shiyu",
   middleName: "",
   lastName: "Su",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about leveraging AI for humanity with respect to privacy. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/shiyu99",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
+    
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/hashirshoaeb/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+   
   ],
 };
 
