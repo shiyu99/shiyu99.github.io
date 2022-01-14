@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Shiyu (Jenny)",
   middleName: "",
   lastName: "Su",
-  message: " Passionate about leveraging AI for humanity with respect to privacy. ",
+  message: "Tech Consultant | Emerging Tech Enthusiast |Aspiring Product Manager | Community Builder | Yogi | Traveler",
   icons: [
     {
       image: "fa-github",
