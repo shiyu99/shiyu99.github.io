@@ -4,12 +4,10 @@
   <h1 align="center">Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
+    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. This website is built upon the open-source project from Hashir Shoaib. Site URL / Demo: 
     <a href="https://shiyu99.github.io">shiyu99.github.io</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
-    ·
     <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
     ·
     <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
@@ -23,7 +21,7 @@
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/social-image.png)](https://shiyu99.github.io/)
 
 ## Table of Contents
 
